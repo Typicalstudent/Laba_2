@@ -10,4 +10,7 @@ public class Paper {
         hig = 20;
         isUsed = false;
     }
+
+    public void setLen(int len) {this.len = len;}
+    public void setHig(int hig) {this.hig = hig;}
 }
